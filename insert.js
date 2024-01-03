@@ -26,4 +26,4 @@
             script.src = t;
             document.body.appendChild(script);
         });
-    }, 2000);
+    }, 1200);
